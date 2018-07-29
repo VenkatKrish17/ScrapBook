@@ -1,0 +1,14 @@
+.mbsc-card-header,.mbsc-card-content,.mbsc-card-footer{
+border:0.2px solid #bebebe !important;
+background:#333745 !important;
+color:white !important;
+text-shadow: none;
+margin:none;
+}
+.container-card{
+  margin:5px;
+}
+
+body{
+  text-shadow: none !important;
+}

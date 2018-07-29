@@ -1,0 +1,4 @@
+#Sun Jul 29 11:48:19 SGT 2018
+base.0=E\:\\Hackathon\\WWC\\ScrapBook\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\Hackathon\\WWC\\ScrapBook\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
